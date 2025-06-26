@@ -5,7 +5,7 @@
 ソースコードだけGitHubにて送らせていただきます。
 
 ▼ダウンロードURL：
-https://xgf.nu/jAnDt
+https://xgf.nu/Mekyc
 
 パスワードが必要なのでこちらをご使用ください：
 0625
